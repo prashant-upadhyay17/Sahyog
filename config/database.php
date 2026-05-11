@@ -1,10 +1,10 @@
 <?php
 declare(strict_types=1);
 
-$dbHost = '127.0.0.1';
-$dbName = 'sahyog';
-$dbUser = 'root';
-$dbPass = '';
+$dbHost = 'host';
+$dbName = 'db_name';
+$dbUser = 'user';
+$dbPass = 'db_pass';
 
 try {
     $pdo = new PDO(
