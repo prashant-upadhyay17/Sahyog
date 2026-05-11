@@ -47,7 +47,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <div class="text-center mt-3">
             <a href="../index.php" class="text-decoration-none"><i class="bi bi-house-door"></i> Back to Home</a>
         </div>
-        <p class="small text-muted mt-3 mb-0 text-center">Default: admin / admin123. Change this after setup.</p>
+        <p class="small text-muted mt-3 mb-0 text-center">Default: username / password Change this after setup.</p>
     </form>
 </main>
 </body>
